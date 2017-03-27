@@ -1,0 +1,12 @@
+{
+  "assetPath": "http://www.somesite.com/data/",
+  "productLineList": [
+    {
+      "title": "gammeTitle1",
+      "subTitle": "gammeSubtitle1",
+      "themeList": [
+        {}
+      ]
+    }
+  ]
+}

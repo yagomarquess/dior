@@ -1,0 +1,670 @@
+{
+  "language": "en",
+  "name": "ENGLISH",
+  "entries": [
+    {
+      "key": "gammeSubtitle1",
+      "value": "V1 VERSION"
+    },
+    {
+      "key": "gammeTitle1",
+      "value": "ONE ESSENTIAL"
+    },
+    {
+      "key": "themeTitle1.1",
+      "value": "THE HIBISCUS GARDEN - BURKINA FASO"
+    },
+    {
+      "key": "contentTitle1.1.1",
+      "value": "THE PURIFYING POWER OF THE RED HIBISCUS"
+    },
+    {
+      "key": "slideTitle1.1.1.1",
+      "value": "THE PURIFYING POWER OF THE RED HIBISCUS"
+    },
+    {
+      "key": "contentTitle1.1.2",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle1.1.2.1",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle1.1.2.2",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle1.1.2.3",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle1.1.2.4",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle1.1.2.5",
+      "value": "THE GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "themeTitle1.2",
+      "value": "THE DETOXIFICATION EXPERTISE"
+    },
+    {
+      "key": "contentTitle1.2.1",
+      "value": "THE DETOXIFICATION EXPERTISE"
+    },
+    {
+      "key": "slideTitle1.2.1.1",
+      "value": "THE DETOXIFICATION EXPERTISE"
+    },
+    {
+      "key": "themeTitle1.3",
+      "value": "THE DIOR DAILY DETOX PROGRAM"
+    },
+    {
+      "key": "contentTitle1.3.1",
+      "value": "ONE ESSENTIAL COLLECTION"
+    },
+    {
+      "key": "slideTitle1.3.1.1",
+      "value": "DETOXIFYING MIST PURITY BOOSTER"
+    },
+    {
+      "key": "slideTitle1.3.1.2",
+      "value": "INTENSE SKIN DETOXIFYING BOOSTER SERUM"
+    },
+    {
+      "key": "slideTitle1.3.1.3",
+      "value": "POLLUTION & UV ADVANCED PROTECTION SPF50 - PA++++"
+    },
+    {
+      "key": "slideTitle1.3.1.4",
+      "value": "EYE ZONE DETOXIFYING RADIANCE-BOOSTING CARE"
+    },
+    {
+      "key": "contentTitle1.3.2",
+      "value": "DIOR SKINCARE HOW TO - DIOR DAILY DETOX PROGRAM"
+    },
+    {
+      "key": "slideTitle1.3.2.1",
+      "value": "DIOR SKINCARE HOW TO - DIOR DAILY DETOX PROGRAM"
+    },
+    {
+      "key": "gammeSubtitle2",
+      "value": "PRO-YOUTH HYDRATION"
+    },
+    {
+      "key": "gammeTitle2",
+      "value": "HYDRA LIFE"
+    },
+    {
+      "key": "themeTitle2.1",
+      "value": "THE FRENCH MALLOW - FRANCE"
+    },
+    {
+      "key": "contentTitle2.1.1",
+      "value": "THE FRENCH MALLOW - FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.1",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.2",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.3",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.4",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.5",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.6",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "slideTitle2.1.1.7",
+      "value": "THE MAUVE GARDEN IN ANJOU, FRANCE"
+    },
+    {
+      "key": "themeTitle2.2",
+      "value": "THE PLAYFUL HYDRATION EXPERT"
+    },
+    {
+      "key": "contentTitle2.2.1",
+      "value": "HYDRA LIFE COLLECTION"
+    },
+    {
+      "key": "slideTitle2.2.1.1",
+      "value": "JELLY SLEEPING MASK"
+    },
+    {
+      "key": "slideTitle2.2.1.2",
+      "value": "JELLY SLEEPING MASK"
+    },
+    {
+      "key": "slideTitle2.2.1.3",
+      "value": "PRO-YOUTH SORBET CREME & SERUM"
+    },
+    {
+      "key": "contentTitle2.2.2",
+      "value": "DIOR SKINCARE HOW TO - FACE RITUAL"
+    },
+    {
+      "key": "slideTitle2.2.2.1",
+      "value": "DIOR SKINCARE HOW TO: FACE RITUAL"
+    },
+    {
+      "key": "gammeSubtitle3",
+      "value": "BRIGHTENING"
+    },
+    {
+      "key": "gammeTitle3",
+      "value": "DIORSNOW"
+    },
+    {
+      "key": "themeTitle3.1",
+      "value": "THE EDELWEISS - SWITZERLAND"
+    },
+    {
+      "key": "contentTitle3.1.2",
+      "value": "THE GARDEN IN SWITZERLAND"
+    },
+    {
+      "key": "slideTitle3.1.2.1",
+      "value": "THE GARDEN IN SWITZERLAND"
+    },
+    {
+      "key": "slideTitle3.1.2.2",
+      "value": "THE GARDEN IN SWITZERLAND"
+    },
+    {
+      "key": "slideTitle3.1.2.3",
+      "value": "THE GARDEN IN SWITZERLAND"
+    },
+    {
+      "key": "slideTitle3.1.2.4",
+      "value": "THE GARDEN IN SWITZERLAND"
+    },
+    {
+      "key": "themeTitle3.2",
+      "value": "THE UNIQUE ASIAN SKIN EXPERTISE"
+    },
+    {
+      "key": "contentTitle3.2.1",
+      "value": "THE UNIQUE ASIAN SKIN EXPERTISE"
+    },
+    {
+      "key": "slideTitle3.2.1.1",
+      "value": "THE UNIQUE ASIAN SKIN EXPERTISE"
+    },
+    {
+      "key": "themeTitle3.3",
+      "value": "THE BLOOMING UNIVERSE"
+    },
+    {
+      "key": "contentTitle3.3.1",
+      "value": "DIOR SNOW COLLECTION"
+    },
+    {
+      "key": "slideTitle3.3.1.1",
+      "value": "BLOOM PERFECT - BRIGHTENING PERFECT SKIN DUO"
+    },
+    {
+      "key": "slideTitle3.3.1.2",
+      "value": "BLOOM PERFECT - BRIGHTENING PERFECT SKIN CREATOR SPF35 - PA+++"
+    },
+    {
+      "key": "slideTitle3.3.1.3",
+      "value": "DIOR SNOW BLOOM PERFECT CUSHION"
+    },
+    {
+      "key": "slideTitle3.3.1.4",
+      "value": "BRIGHTENING MAKEUP BASE COLOUR CORRECTION SP35 - PA+++"
+    },
+    {
+      "key": "contentTitle3.3.2.1",
+      "value": "DIOR SKINCARE HOW TO - APPLY BLOOM PERFECT"
+    },
+    {
+      "key": "contentTitle3.3.2.2",
+      "value": "DIOR SKINCARE HOW TO - APPLY BLOOM PERFECT CUSHION"
+    },
+    {
+      "key": "themeTitle3.4",
+      "value": "BEAUTY SPRINGS ETERNAL, THE CAMPAIGN"
+    },
+    {
+      "key": "contentTitle3.4.1",
+      "value": "THE FILM"
+    },
+    {
+      "key": "slideTitle3.4.1.1",
+      "value": "THE FILM"
+    },
+    {
+      "key": "contentTitle3.4.2",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle3.4.2.1",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle3.4.2.2",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle3.4.2.3",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle3.4.2.4",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle3.4.2.5",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "gammeSubtitle4",
+      "value": "TOTAL YOUTH CARE"
+    },
+    {
+      "key": "gammeTitle4",
+      "value": "CAPTURE TOTALE"
+    },
+    {
+      "key": "themeTitle4.1",
+      "value": "THE CAPTURE TOTALE NATURAL ACTIVE INGREDIENTS"
+    },
+    {
+      "key": "contentTitle4.1.1",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.2",
+      "value": "THE OPILIA GARDEN IN BURKINA FASO"
+    },
+    {
+      "key": "slideTitle4.1.1.3",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.4",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.5",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.6",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.7",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.8",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.9",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.10",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.11",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.12",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.13",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.14",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "slideTitle4.1.1.15",
+      "value": "YOUTH & PERFECTION GARDENS"
+    },
+    {
+      "key": "contentTitle4.1.2",
+      "value": "THE LONGOZA GARDEN IN MADAGASCAR"
+    },
+    {
+      "key": "slideTitle4.1.2.1",
+      "value": "THE LONGOZA GARDEN IN MADAGASCAR"
+    },
+    {
+      "key": "themeTitle4.3",
+      "value": "THE TOTAL YOUTH CARE AND BEAUTY COLLECTION"
+    },
+    {
+      "key": "contentTitle4.3.1",
+      "value": "CAPTURE TOTALE COLLECTION"
+    },
+    {
+      "key": "slideTitle4.3.1.1",
+      "value": "MULTI-PERFECTION CREME"
+    },
+    {
+      "key": "slideTitle4.3.1.2",
+      "value": "THE SERUM"
+    },
+    {
+      "key": "contentTitle4.3.2.1",
+      "value": "DIOR SKINCARE HOW TO - APPLY CAPTURE TOTALE LA CREME"
+    },
+    {
+      "key": "contentTitle4.3.2.2",
+      "value": "DIOR SKINCARE HOW TO - APPLY CAPTURE TOTALE EYE SERUM"
+    },
+    {
+      "key": "themeTitle4.4",
+      "value": "DREAMSKIN ADVANCED, THE PERFECT SKIN CREATOR"
+    },
+    {
+      "key": "contentTitle4.4.1",
+      "value": "DREAMSKIN ADVANCED, THE PERFECT SKIN CREATOR"
+    },
+    {
+      "key": "slideTitle4.4.1.1",
+      "value": "DREAMSKIN ADVANCED GLOBAL AGE-DEFYING SKINCARE PERFECT SKIN CREATOR"
+    },
+    {
+      "key": "slideTitle4.4.1.2",
+      "value": "DREAMSKIN PERFECT SKIN CUSHION SPF50 - PA+++"
+    },
+    {
+      "key": "slideTitle4.4.1.3",
+      "value": "DREAMSKIN YOUTH MASK NEW SKIN EFFECT"
+    },
+    {
+      "key": "slideTitle4.4.1.4",
+      "value": "DREASMKIN PERFECT SKIN CREATOR & PERFECT SKIN CUSHION"
+    },
+    {
+      "key": "themeTitle4.2",
+      "value": "THE EXCLUSIVE STEM CELLS EXPERTISE"
+    },
+    {
+      "key": "contentTitle4.2.1",
+      "value": "THE EXCLUSIVE STEM CELLS EXPERTISE"
+    },
+    {
+      "key": "slideTitle4.2.1.1",
+      "value": "THE EXCLUSIVE STEM CELLS EXPERTISE"
+    },
+    {
+      "key": "themeTitle4.5",
+      "value": "THE SKIN OF MY DREAMS, THE CAMPAIGN"
+    },
+    {
+      "key": "contentTitle4.5.2",
+      "value": "BEHIND THE SCENES"
+    },
+    {
+      "key": "slideTitle4.5.2.1",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.2",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.3",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.4",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.5",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.6",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.7",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "slideTitle4.5.2.8",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "contentTitle4.5.1",
+      "value": "THE FILM"
+    },
+    {
+      "key": "slideTitle4.5.1.1",
+      "value": "THE FILM"
+    },
+    {
+      "key": "gammeSubtitle5",
+      "value": "EXTRAORDINARY REGENERATION|AND PERFECTION"
+    },
+    {
+      "key": "gammeTitle5",
+      "value": "DIOR PRESTIGE"
+    },
+    {
+      "key": "themeTitle5.1",
+      "value": "THE ROSE DE GRANVILLE"
+    },
+    {
+      "key": "contentTitle5.1.1",
+      "value": "GRANVILLE, WHERE IT ALL BEGAN"
+    },
+    {
+      "key": "slideTitle5.1.1.1",
+      "value": "360° VISIT - THE FILM"
+    },
+    {
+      "key": "slideTitle5.1.1.2",
+      "value": "360° VISIT - THE ROSE GARDEN"
+    },
+    {
+      "key": "slideTitle5.1.1.3",
+      "value": "360° VISIT - THE TERRASSE"
+    },
+    {
+      "key": "slideTitle5.1.1.4",
+      "value": "360° VISIT - THE HOUSE"
+    },
+    {
+      "key": "slideTitle5.1.1.5",
+      "value": "360° VISIT - THE CLIFF"
+    },
+    {
+      "key": "contentTitle5.1.2",
+      "value": "THE CREATION OF A LEGENDARY ROSE"
+    },
+    {
+      "key": "slideTitle5.1.2.1",
+      "value": "THE ORIGIN OF THE MYTH"
+    },
+    {
+      "key": "slideTitle5.1.2.2",
+      "value": "THE ART OF ROSE BREEDING"
+    },
+    {
+      "key": "slideTitle5.1.2.3",
+      "value": "THE ART OF ROSE BREEDING"
+    },
+    {
+      "key": "slideTitle5.1.2.4",
+      "value": "THE ART OF ROSE BREEDING"
+    },
+    {
+      "key": "slideTitle5.1.2.5",
+      "value": "THE ART OF ROSE BREEDING"
+    },
+    {
+      "key": "slideTitle5.1.2.6",
+      "value": "THE ART OF ROSE BREEDING"
+    },
+    {
+      "key": "contentTitle5.1.4",
+      "value": "THE ROSE DE GRANVILLE GARDEN"
+    },
+    {
+      "key": "slideTitle5.1.3.1",
+      "value": "THE ROSE DE GRANVILLE GARDEN, THE FILM"
+    },
+    {
+      "key": "slideTitle5.1.4.1",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.2",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.3",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.4",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.5",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.6",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "slideTitle5.1.4.7",
+      "value": "THE HARVEST AND EXTRACTION"
+    },
+    {
+      "key": "themeTitle5.2",
+      "value": "THE INFLAMMAGING EXCLUSIVE EXPERTISE"
+    },
+    {
+      "key": "contentTitle5.2.3",
+      "value": "THE SCIENCE BEHIND THE ROSE"
+    },
+    {
+      "key": "slideTitle5.2.3.1",
+      "value": "THE SCIENCE BEHIND THE ROSE"
+    },
+    {
+      "key": "themeTitle5.3",
+      "value": "DIOR PRESTIGE COLLECTION"
+    },
+    {
+      "key": "contentTitle5.3.1",
+      "value": "DIOR PRESTIGE COLLECTION"
+    },
+    {
+      "key": "slideTitle5.3.1.1",
+      "value": "EXCEPTIONAL REGENERATING AND PERFECTING CREME - RICH TEXTURE"
+    },
+    {
+      "key": "slideTitle5.3.1.2",
+      "value": "EXCEPTIONAL REGENERATING AND PERFECTING CREME - RICH TEXTURE & L'HUILE SOUVERAINE & EXCEPTIONAL NOURISHING FOUNDATION"
+    },
+    {
+      "key": "slideTitle5.3.1.3",
+      "value": "EXCEPTIONAL REGENERATING AND PERFECTING CREME - ESSENTIAL TEXTURE"
+    },
+    {
+      "key": "contentTitle5.3.2",
+      "value": "DIOR PRESTIGE WHITE COLLECTION"
+    },
+    {
+      "key": "slideTitle5.3.2.1",
+      "value": "LA CREME ECLAIRCISSANTE & LE NECTAR BLANC"
+    },
+    {
+      "key": "slideTitle5.3.2.2",
+      "value": "LE NECTAR BLANC"
+    },
+    {
+      "key": "slideTitle5.3.2.3",
+      "value": "UV BASE ROSY GLOW SPF50+ PA+++ & BLEMISH BALM SPF50+ PA+++"
+    },
+    {
+      "key": "contentTitle5.3.4",
+      "value": "FROM THE ROSE TO THE SKIN, THE FILM"
+    },
+    {
+      "key": "slideTitle5.3.4.1",
+      "value": "FROM THE ROSE TO THE SKIN, THE FILM"
+    },
+    {
+      "key": "contentTitle5.3.5",
+      "value": "DIOR SKINCARE HOW TO - APPLY DIOR PRESTIGE LA CREME"
+    },
+    {
+      "key": "slideTitle5.3.3.1",
+      "value": "DIOR SKINCARE HOW TO - APPLY DIOR PRESTIGE LA CREME"
+    },
+    {
+      "key": "changeUniverse",
+      "value": "CHANGE UNIVERSE - MODIF"
+    },
+    {
+      "key": "flower3",
+      "value": "E D E L W E I S S"
+    },
+    {
+      "key": "flower2",
+      "value": "M A U V E"
+    },
+    {
+      "key": "flower4",
+      "value": "L O N G O Z A"
+    },
+    {
+      "key": "slideTitle4.5.2.9",
+      "value": "EVA HERZIGOVA"
+    },
+    {
+      "key": "back",
+      "value": "BACK"
+    },
+    {
+      "key": "exploreDiorSkinCare",
+      "value": "EXPLORE DIOR SKINCARE ---"
+    },
+    {
+      "key": "flower1",
+      "value": "H I B I S C U S"
+    },
+    {
+      "key": "flower5",
+      "value": "R O S E  D E  G R A N V I L L E"
+    },
+    {
+      "key": "touchToExplore",
+      "value": "TOUCH TO|EXPLORE"
+    }
+  ]
+}
